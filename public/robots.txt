@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /private/
 Allow: /
 
-Sitemap:
+Sitemap:https://fm-advice-generator-ten.vercel.app/sitemap.xml

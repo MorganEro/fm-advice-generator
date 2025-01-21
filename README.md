@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](/assets/images/Screen%20Shot%202024-05-07%20at%2010.30.04.png)
+![](/public/Screen%20Shot%202025-01-21%20at%2012.38.03.png)
 
 ### Links
 
-- Solution URL: (https://github.com/MorganEro/advice-generator)
-- Live Site URL: (https://morganero.github.io/advice-generator/)
+- Solution URL: (https://github.com/MorganEro/fm-advice-generator)
+- Live Site URL: (https://fm-advice-generator-ten.vercel.app/)
 
 ## My process
 
